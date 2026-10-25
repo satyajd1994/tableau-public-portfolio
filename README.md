@@ -1,25 +1,40 @@
-# tableau-public-portfolio
-My Tableau Public dashboards and data analytics projects
-Tableau Public Portfolio
+# Tableau Public Portfolio
 
-Hi, welcome to my data analytics portfolio!
+Welcome to my data analytics portfolio!
 
-I'm using this repository to showcase my Tableau Public dashboards and data visualization projects.
+This repository showcases my Tableau Public dashboards and data visualization projects.
 
-About My Work
+## About My Work
 
-Creating interactive dashboards using Tableau Public
+- Building interactive dashboards using Tableau Public
+- Exploring data to identify trends and patterns
+- Presenting business insights through data visualization
 
-Exploring data and identifying trends
+## Tableau Public Profile
 
-Presenting insights through data visualization
+Explore all my dashboards on Tableau Public:
 
-Tableau Public Profile
+https://public.tableau.com/app/profile/satyajeet.das3533/vizzes
 
-Explore my dashboards here:
+---
 
-(https://public.tableau.com/app/profile/satyajeet.das3533/vizzes)
+## Projects
 
-Projects
+### 1. Customer Lifetime Value (CLTV) Matrix
 
-More projects and dashboard details will be added here as I continue learning and buildi
+**Project Overview**
+
+An interactive Tableau dashboard focused on Customer Lifetime Value (CLTV) analysis. Customer lifetime value helps businesses understand the value customers contribute over their relationship with a company.
+
+**Dashboard**
+
+https://public.tableau.com/app/profile/satyajeet.das3533/viz/CustomerLifetimeValueCTLVMatrix/Dashboard1
+
+**Tools Used**
+- Tableau Public
+- Data Visualization
+- Customer Analytics
+
+---
+
+More projects and insights will be added as I continue building my data analytics portfolio.
